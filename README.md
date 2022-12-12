@@ -1,1 +1,0 @@
-pong muang tai
